@@ -1,0 +1,32 @@
+/*This is the very top header*/
+h1{
+    color: IndianRed;
+    background-color: #010000;
+}
+h3{
+    color: rgb(255,0,0);
+    background-color: hsl(120, 100%,75%)
+}
+div.activities{
+    color: blue;
+    padding-top: 5px;
+    border-width: 2pt;
+    border-radius: 1pc;
+    border-style: solid;
+    border-color: black;
+}
+b.act{
+    padding-left: 1em;
+}
+div.highlights{
+    padding-top: 1ch;
+    padding-bottom: 1ex;
+    color: orangered;
+    border-width: 2pt;
+    border-radius: 1pc;
+    border-style: solid;
+    border-color: black;
+}
+b.high{
+    padding-left: 1em;
+}
