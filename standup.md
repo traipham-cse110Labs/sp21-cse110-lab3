@@ -5,6 +5,7 @@
 - Created standup.md
 - Read through entire lab before coding
 - Made Issues according to tasks needed to be done
+
 ### Saturday 4/18
 - Created style.css
 - Added colors to HTML elements
