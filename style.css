@@ -39,6 +39,23 @@ b.high{
 }
 p.desc{
     margin: auto;
+    width: 85%;
+    height: 100%;
+    max-height: 100px;
+    max-width: 100%;
+    border: 1px solid black;
+}
+strong.activity{
+    display: inline-block;
+}
+em.mood{
+    display: inline;
+}
+/*ID Selector*/
+#BTD6 {
+    padding: 1pc;
+    text-decoration: underline;
+    text-align: left;
 }
 div.meme_1{
     margin-top: 1pt;
@@ -46,11 +63,18 @@ div.meme_1{
     margin-left: 1pt; 
     margin-right: 1pt;
 }
-/*ID Selector*/
-#BTD6 {
-    padding: 1pc;
-    text-decoration: underline;
-    text-align: left;
+b.song{
+    position: relative
+}
+audio:hover{
+    background-color: green;
+}
+/*Pseudo-class selector*/
+summary.extra:active{
+    background-color: BlueViolet;
+}
+b.clip{
+    position: static;
 }
 
 /*Attribute selector*/
