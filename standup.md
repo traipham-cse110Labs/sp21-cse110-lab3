@@ -11,6 +11,12 @@
 - Added colors to HTML elements
 - Worked with classes
 - Resolved Issue 4: "Add/Use comments, color, background, units"
+### Sunday 4/18
+- Resolved all issues
+- Implemented all necessary properties for lab 3
+- Used all selectors needed for lab 3 
+- Tried to make website symmetrical
+- Turning in Lab 3 
 
 # Things to be aware of/TO-DO 
 - Pull request for each issues and making a branch for each issue
