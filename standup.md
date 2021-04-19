@@ -6,7 +6,7 @@
 - Read through entire lab before coding
 - Made Issues according to tasks needed to be done
 
-### Saturday 4/18
+### Saturday 4/17
 - Created style.css
 - Added colors to HTML elements
 - Worked with classes
