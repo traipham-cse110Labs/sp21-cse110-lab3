@@ -119,6 +119,7 @@ div.grid{
     grid-row-end: 3;
     border: 1pt solid black;
 }
+/*Child Combinator Selector*/
 div.grid > div.meme_2{
     grid-column-start: 1;
     place-self: auto;
@@ -129,5 +130,17 @@ div.grid > div.meme_2{
 } */
 /*Attribute selector*/
 a[target="_blank"] {
-    background-color:yellow
+    background-color:yellow;
+}
+/*Descendent selector*/
+p strong{
+    background-color: yellow;
+}
+/*Adjacent Sibling selector && combining two selectors*/
+div.activities + div{
+    color: crimson;
+}
+/*General Sibling Selector*/
+div ~ details{
+    color: darkgoldenrod;
 }
